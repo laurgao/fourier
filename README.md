@@ -6,7 +6,7 @@ Fourier series drawing. Check it out!! [laurgao.github.io/fourier](https://laurg
 
 One day, I was bored. So I decided to learn about the Fourier transform.
 
-I used Adobe Illustrator to trace a continuous outline of the original photo, converted it to svg, used Python to sample the x and y coordinates of ~400 evenly-spaced points along the svg path, and then plugged those points into a discrete fourier transform with the y coordinate as the imaginary part. Main Fourier logic is in `sketch.js`.
+I used Adobe Illustrator to trace a continuous outline of the original photo, converted it to svg, used Python to sample the x and y coordinates of ~400 evenly-spaced points along the svg path, and then plugged those points into a discrete fourier transform with the y coordinate as the imaginary part. Main Fourier logic is in `sketch.js`. This was done over one weekend.
 
 Stuff that helped me:
 
